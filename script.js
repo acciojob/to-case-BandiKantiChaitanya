@@ -2,7 +2,7 @@ function toCase(text) {
   // write your code here
 	let lowerCase=text.toLowerCase()
 	let upperCase=text.toUpperCase()
-	return `${lowerCase}-${upperCase} `
+	return `${lowerCase}-${upperCase}`
 }
 
 // DO not change the code below
